@@ -1,0 +1,11 @@
+C:\projects\lab1_circle\lab1_circle\bin\Debug\netcoreapp2.0\lab1_circle.deps.json
+C:\projects\lab1_circle\lab1_circle\bin\Debug\netcoreapp2.0\lab1_circle.runtimeconfig.json
+C:\projects\lab1_circle\lab1_circle\bin\Debug\netcoreapp2.0\lab1_circle.runtimeconfig.dev.json
+C:\projects\lab1_circle\lab1_circle\bin\Debug\netcoreapp2.0\lab1_circle.dll
+C:\projects\lab1_circle\lab1_circle\bin\Debug\netcoreapp2.0\lab1_circle.pdb
+C:\projects\lab1_circle\lab1_circle\obj\Debug\netcoreapp2.0\lab1_circle.csprojResolveAssemblyReference.cache
+C:\projects\lab1_circle\lab1_circle\obj\Debug\netcoreapp2.0\lab1_circle.csproj.CoreCompileInputs.cache
+C:\projects\lab1_circle\lab1_circle\obj\Debug\netcoreapp2.0\lab1_circle.AssemblyInfoInputs.cache
+C:\projects\lab1_circle\lab1_circle\obj\Debug\netcoreapp2.0\lab1_circle.AssemblyInfo.cs
+C:\projects\lab1_circle\lab1_circle\obj\Debug\netcoreapp2.0\lab1_circle.dll
+C:\projects\lab1_circle\lab1_circle\obj\Debug\netcoreapp2.0\lab1_circle.pdb

@@ -1,0 +1,11 @@
+C:\projects\lab1_studen_class\lab1_studen_class\bin\Debug\netcoreapp2.0\lab1_studen_class.deps.json
+C:\projects\lab1_studen_class\lab1_studen_class\bin\Debug\netcoreapp2.0\lab1_studen_class.runtimeconfig.json
+C:\projects\lab1_studen_class\lab1_studen_class\bin\Debug\netcoreapp2.0\lab1_studen_class.runtimeconfig.dev.json
+C:\projects\lab1_studen_class\lab1_studen_class\bin\Debug\netcoreapp2.0\lab1_studen_class.dll
+C:\projects\lab1_studen_class\lab1_studen_class\bin\Debug\netcoreapp2.0\lab1_studen_class.pdb
+C:\projects\lab1_studen_class\lab1_studen_class\obj\Debug\netcoreapp2.0\lab1_studen_class.csprojResolveAssemblyReference.cache
+C:\projects\lab1_studen_class\lab1_studen_class\obj\Debug\netcoreapp2.0\lab1_studen_class.csproj.CoreCompileInputs.cache
+C:\projects\lab1_studen_class\lab1_studen_class\obj\Debug\netcoreapp2.0\lab1_studen_class.AssemblyInfoInputs.cache
+C:\projects\lab1_studen_class\lab1_studen_class\obj\Debug\netcoreapp2.0\lab1_studen_class.AssemblyInfo.cs
+C:\projects\lab1_studen_class\lab1_studen_class\obj\Debug\netcoreapp2.0\lab1_studen_class.dll
+C:\projects\lab1_studen_class\lab1_studen_class\obj\Debug\netcoreapp2.0\lab1_studen_class.pdb

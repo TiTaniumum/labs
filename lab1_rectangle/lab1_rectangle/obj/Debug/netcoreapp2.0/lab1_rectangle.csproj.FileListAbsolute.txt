@@ -1,0 +1,11 @@
+C:\projects\lab1_rectangle\lab1_rectangle\bin\Debug\netcoreapp2.0\lab1_rectangle.deps.json
+C:\projects\lab1_rectangle\lab1_rectangle\bin\Debug\netcoreapp2.0\lab1_rectangle.runtimeconfig.json
+C:\projects\lab1_rectangle\lab1_rectangle\bin\Debug\netcoreapp2.0\lab1_rectangle.runtimeconfig.dev.json
+C:\projects\lab1_rectangle\lab1_rectangle\bin\Debug\netcoreapp2.0\lab1_rectangle.dll
+C:\projects\lab1_rectangle\lab1_rectangle\bin\Debug\netcoreapp2.0\lab1_rectangle.pdb
+C:\projects\lab1_rectangle\lab1_rectangle\obj\Debug\netcoreapp2.0\lab1_rectangle.csprojResolveAssemblyReference.cache
+C:\projects\lab1_rectangle\lab1_rectangle\obj\Debug\netcoreapp2.0\lab1_rectangle.csproj.CoreCompileInputs.cache
+C:\projects\lab1_rectangle\lab1_rectangle\obj\Debug\netcoreapp2.0\lab1_rectangle.AssemblyInfoInputs.cache
+C:\projects\lab1_rectangle\lab1_rectangle\obj\Debug\netcoreapp2.0\lab1_rectangle.AssemblyInfo.cs
+C:\projects\lab1_rectangle\lab1_rectangle\obj\Debug\netcoreapp2.0\lab1_rectangle.dll
+C:\projects\lab1_rectangle\lab1_rectangle\obj\Debug\netcoreapp2.0\lab1_rectangle.pdb
